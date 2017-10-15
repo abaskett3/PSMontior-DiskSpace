@@ -1,6 +1,6 @@
 ﻿Function Monitor-DiskSpace{
 <#
-    .SYNSOPSIS
+    .SYNOPSIS
     This is a simple script to monitor disk space on any given host for any drive on that host.
     
     .DESCRIPTION
